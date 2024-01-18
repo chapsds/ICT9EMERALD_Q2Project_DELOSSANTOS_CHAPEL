@@ -1,0 +1,53 @@
+body{
+	background-image: url(https://img.freepik.com/free-photo/view-philippine-flag_23-2150319712.jpg);
+    
+}
+table{
+	align-content: left;
+	margin: 30px;
+}
+
+#title
+{
+	border: solid;
+	border-color: lightcoral;
+	text-align: center;
+	color: red;
+	opacity: 1.0;
+}
+#boracay
+{
+	border: solid;
+	display: inline-block;
+	margin: 10px;
+	border-image-width: 200px;
+	border-color: blue;
+	font-family: Arial, !important;
+	align-content: top;
+	text-decoration: underline;
+}
+
+
+
+	
+#bgc
+{
+	border: solid;
+	border-color: yellow;
+	font-family: Arial, !important;
+	text-decoration: underline;
+
+}
+#intramuros 
+{
+
+	border: solid;
+	display: inline-block;
+	border-color: orangered;
+	font-family: Arial, !important;
+	text-decoration: underline;
+}
+	
+
+
+
